@@ -1,5 +1,13 @@
 # KoaBlogServer
 
+先啟動 mongodb
+
+```
+$ mongod --dbpath <dbpath...>
+```
+
+然後啟動本伺服器
+
 ```
 $ npm run start
 ```
