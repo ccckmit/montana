@@ -10,7 +10,7 @@ $ npm run dev
 
 然後觀看 http://localhost:8080/#/Blog
 
-![](img/vue-koablog)
+![](img/vue-koablog.png)
 
 ## Build Setup
 
