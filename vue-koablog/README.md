@@ -1,6 +1,16 @@
-# vue-project1
+# vue-koablog
 
-> A Vue.js project
+```
+$ git clone https://github.com/ccckmit/montana.git
+$ cd montana
+$ cd vue-koablog
+$ npm i
+$ npm run dev
+```
+
+然後觀看 http://localhost:8080/#/Blog
+
+![](img/vue-koablog)
 
 ## Build Setup
 
